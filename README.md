@@ -18,14 +18,14 @@
 <h2 style="color:red">2.Why was Kezia afraid of his father?</h2>
 <details>
    <summary>ANSWER</summary>
-   <h3 style="color:blue"Ans.>Kezia was afraid of her father because he used to talk harshly.He was in a habit of finding out her mistakes.</h3></details>
+   <h3 style="color:blue">Kezia was afraid of her father because he used to talk harshly.He was in a habit of finding out her mistakes.</h3></details>
 
    <h2 style="color:red">3.What should we do to make friend with the wind?</h2>
 
 <details>
    <summary>ANSWER</summary>
-   <h3 style="color:blue">Ans.Kezia was afraid of her father because he used to talk harshly.He was in a habit of finding out her mistakes.</h3></details>
-   </details>
+   <h3 style="color:blue">Ans.The poet asks us to make friends with the wind by building strong homes, joining the doors firmly and also practice enough to make our bodies and hearts stronger.</h3></details>
+   
    
    <h2 style="color:red">4.Why did einstein write a letter to Frankline Roosevelt?</h2>
 
