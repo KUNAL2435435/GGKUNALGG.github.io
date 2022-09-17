@@ -24,7 +24,7 @@
 
 <details>
    <summary>ANSWER</summary>
-   <h3 style="color:blue">Ans.The poet suggest that we should build strong house and fix the doors firmly to make friend with wind.Moreover we should strong enough(mentally and physically) to face difficulty.</h3>
+   <h3 style="color:blue">Ans.Kezia was afraid of her father because he used to talk harshly.He was in a habit of finding out her mistakes.</h3></details>
    </details>
    
    <h2 style="color:red">4.Why did einstein write a letter to Frankline Roosevelt?</h2>
