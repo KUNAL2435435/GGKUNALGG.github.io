@@ -1,5 +1,5 @@
 # GGKUNALGG.github.io
-<!dooctype>
+
 <html>
 <head>
 <title>ENGLISH REVISION ANSWERS</title>
@@ -165,8 +165,7 @@
 <h2>.</h2>
 <h2>.</h2>
 <h2 style="color:crimson">MADE BY KUNAL VAISHNAV</h2>
-    </body>
-</html>
+    
 
 
 
