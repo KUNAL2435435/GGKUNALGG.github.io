@@ -1,0 +1,172 @@
+# GGKUNALGG.github.io
+<!dooctype>
+<html>
+<head>
+<title>ENGLISH REVISION ANSWERS</title>
+</head>
+
+   <body bgcolor="#OOFFF">
+   <h1><center>ENGLISH REVISION QUESTION ANSWERS</center></h1>
+   
+   <h2 style="color:red">1.Why did aurangzeb ban the playing of pungi?</h2>
+   <details>
+   <summary>ANSWER</summary>
+   
+<h3 style="color:blue">Ans.Aurangzeb banned thr playing of pungi beacuase it has a shrill and unpleasant sound.</h3>
+</details>
+
+<h2 style="color:red">2.Why was Kezia afraid of his father?</h2>
+<details>
+   <summary>ANSWER</summary>
+   <h3 style="color:blue"Ans.>Kezia was afraid of her father because he used to talk harshly.He was in a habit of finding out her mistakes.</h3></details>
+
+   <h2 style="color:red">3.What should we do to make friend with the wind?</h2>
+
+<details>
+   <summary>ANSWER</summary>
+   <h3 style="color:blue">Ans.The poet suggest that we should build strong house and fix the doors firmly to make friend with wind.Moreover we should strong enough(mentally and physically) to face difficulty.</h3>
+   </details>
+   
+   <h2 style="color:red">4.Why did einstein write a letter to Frankline Roosevelt?</h2>
+
+   <details>
+   <summary>ANSWER</summary>
+   <h3 style="color:blue">Ans.Einstein wrote a letter to Frankline Roosevelt to warn about bomb effect and also wanted to encourage them to make a bomb to utilize its destruction potential.</h3>
+</details>
+
+<h2 style="color:red">5.How does he describe the old kind of teacher?</h2>
+<details>
+   <summary>ANSWER</summary>
+   <h3 style ="color:blue">Ans.Tommy said that the old kind of teacher were men who taught the student inside a special building.The teacher taught the children
+   in group and gave them homework and asked them question.</h3>
+   </details>
+
+   <h2 style="color:red">6.What are the things the child sees on his way to the fair?</h2>
+   <details>
+    <summary>ANSWER</summary>
+    <h3 style="color:blue">Ans.The child sees a number of thing which fascinate him on his way to the fair:</h3>
+    <h3 style="color:blue">1.Firstly he saw toys at a shop.</h3>
+
+    <h3 style="color:blue">2.Then he saw a flowering mustard field.</h3>
+
+    <h3 style="color:blue">3.In the field the child also saw dragon flies-bustling their wing and butterflies in the search of sweatness from flower.</h3>
+
+    <h3 style="color:blue">4.Then while walking on the footpath he was amazed by the insect and worms.</h3>
+    <h3 style="color:blue">5.He also saw a snake charmer who stood plaing a flute to a snake.</h3>
+    <h3 style="color:blue">6.Finally before losing track of his parents he saw a rounded bout swing.</h3>
+
+</details>
+
+<h2 style="color:red">7.How does Toto come to grandfather’s private zoo?</h2>
+
+<details>
+    <summary>ANSWER</summary>
+    <h3 style="color:blue">Ans.Toto was owned by a tonga-driver who used to keep him tied to a feeding-trough. Grandfather felt that the monkey was out of place there. So, he decided to add the little monkey to his private zoo. He bought Toto from the tonga-driver for five rupees</h3>
+</details>
+<h2 style="color:red">8.“Toto was a pretty monkey.” In what sense is Toto pretty?</h2>
+
+
+<details>
+    <summary>ANSWER</summary>
+    <h3 style="color:blue">Ans.Toto was pretty as he had bright eyes that sparkled with mischief beneath his deep-set eyebrows. His teeth were pearly white which were often displayed in a smile. His tail also added to his good looks</h3>
+    </details>
+
+    <h2 style="color:red">9.How does Evelyn hear music?</h2>
+    <details>
+        <summary>ANSWER</summary>
+        <H3 style="color:blue">Ans.Evelyn heard music by sensing the notes in different parts of her body. When Ron Forbes tuned two drums to different notes and asked her to sense the sound without using her ears, she realized that she could feel the higher drum from the waist up and the lower drum from the waist down.</H3>
+    </details>
+
+    <h2 style="color:red">10.How does Kezia begin to see her father as a human being who needs her sympathy?</h2>
+
+    <details>
+        <summary>ANSWER</summary>
+
+        <h3 style="color:blue">Ans.She realised that her father had to work all day long and got so tired that he could not play with her. She realised that her father wanted her to understand his compulsion. At the bottom, he was a very good person
+        </h3>
+    </details>
+
+    <h2 style="color:red">11.Mahendra calls ghosts or spirits a figment of the imagination.What happens to him on a full-moon night?</h2>
+
+<details>
+        <summary>ANSWER</summary>
+        <h3 style="color:blue">Ans.Mahendra calls ghosts or spirits a figment of the imagination because Iswaran had informed him that they were living on a burial site and narrated how he sometimes saw ghosts at night particularly a horrible ghost of a woman holding a foetus in its arms during the full moon.</h3></details>
+
+        <h2 style="color:red">13.Who is the real culprit according to the king? Why does he escape punishment?</h2>
+
+        <details>
+            <summary>ANSWER</summary>
+            <h3 style="color:blue">Ans.The real culprit according to the king is the merchant because although his old father was the real murderer he was dead and someone had to be punishment in his place. He escapes the punishment because he is too thin to be properly executed on the stake.</h3>
+        </details>
+
+        <h2 style="color:red" >14.Why did Margie hate school? Why did she think the old kind of school must have been fun?</h2>
+
+
+<details>
+            <summary>ANSWER</summary>
+            <h3 style="color:blue">Ans.Margie hated school because it was not fun. A mechanical teacher used to teach her everyday at a fixed time. The part that she hated the most was inserting the homework and in the slot on the mechanical teacher. She did not like the fact that she had to write her answers in a punch code.She also disliked that the
+                 mechanical teacher calculated the marks immediately.She found her school detached and uninteresting. She thought that the old kind of school must have been fun as she imagined all the kids from the entire neighbourhood coming together laughing and shouting in the schoolyard. She imagined that they would sit together in the classroom and go home together at the end of the day.
+                 They would learn the same things and could help one another with the homework and talk about it. Also the teachers were human. All these aspects made her believe that the old kind of schools must have been fun.</h3>
+
+                 </details>
+
+                 <h2 style="color:red">15.Why did Einstein write a letter to Franklin Roosevelt?</h2>
+                 <details>
+                    <summary>ANSWER</summary>
+                    <h3 style="color:blue">Ans.Einstein wrote a letter to Frankline Roosevelt to warn about bomb effect and also wanted to encourage them to make a bomb to utilize its destruction potential.</h3>
+                 </details>
+
+
+                 
+<h2 style="color:red">16.What did Einstein call his desk drawer at the patent office? Why?</h2>
+
+
+
+                 <details>
+                    <summary>ANSWER</summary>
+                    <h3 style="color:blue">Ans.Einstein called his desk drawer at the patent office the 'bureau of theoretical physics'. Einstein was actually developing his own ideas in secret and his drawer had all the evidences which could reveal the secret. </h3></details>
+
+                    <h2 style="color:red">17.Where did Bismillah Khan play the shehnai on 15 August 1947? Why was the event historic?</h2>
+
+                    <details>
+                        <summary>ANSWER</summary>
+                        
+                        <h3 style="color:blue">Ans.Bismillah Khan played the shehnai on 15 August 1947 at the Red Fort. He was the first Indian to greet the nation with his musical instrument. This event was historic because We got independence on that day.</h3>
+                        
+</details>
+
+
+<h2 style="color:red">18.Why does the author say, “Toto was not the sort of pet we could keep for long”?</h3>
+<details>
+    <summary>ANSWER</summary>
+    <h3 style="color:blue">Ans.Toto was not the sort of pet the author could keep for long. This is because he frequently tore clothes, smashed dishes, robbed food, made holes in curtains and the wallpaper, and acted rude with guests. The author's family was not that well to do that they could replace the items destroyed by Toto.</h3></details>
+
+
+    <h2 style="color:red">19.What do you think happens in the end? Does the child find his parents?</h3>
+
+
+<details>
+                        <summary>ANSWER</summary>
+                        
+                        <h3 style="color:blue">Ans.Towards the end, I think that the child reunites with his parents. The man who found the boy crying picked him up and showed him around the fair to cheer him up. As the child only wanted his parents, I feel that the man would try to search for his parents and try his best to unite them.</h3></details>
+
+   <h2 style="color:red">20.What are the Guru’s words of wisdom? When does the disciple remember them?</h2>
+
+   <details>
+    <summary>ANSWER</summary>
+    <h3 style="color:blue">Ans.The guru's words of wisdom were that it was the city of fools. He advised the disciple to leave the city because he would not know what they would do next. The disciple remembers this when he was going to be executed.</h3></details>
+
+<h2>.</h2>
+<h2>.</h2>
+<h2>.</h2>
+<h2>.</h2>
+<h2>.</h2><h2>.</h2>
+<h2>.</h2>
+<h2>.</h2>
+<h2>.</h2>
+<h2 style="color:crimson">MADE BY KUNAL VAISHNAV</h2>
+    </body>
+</html>
+
+
+
